@@ -4,6 +4,7 @@
         window.addEventListener('load',function(){
         alert('Hi')
         })
+       console.log("Hello world!"); 
     </script>   
 
 </svg>
